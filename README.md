@@ -5,6 +5,7 @@ An automated cryptocurrency trading agent that analyzes market signals and execu
 The agent connects to the Coinbase Advanced Trade API and evaluates market conditions using RSI, MACD, and SMA indicators.
 
 ---
+![ai crypto trading agent](Architecture_Ai_Agent.png)
 
 ## Architecture
 
